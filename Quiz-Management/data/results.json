@@ -1,0 +1,41 @@
+[
+    {
+        "user_id": "69ca8f9122d01",
+        "quiz_id": "69ca950708a9b",
+        "score": 1,
+        "raw_score": 1,
+        "total": 1,
+        "answers_selected": {
+            "69ca952486128": 0
+        },
+        "submitted_at": "2026-03-30 17:24:13",
+        "id": "69ca959dd99f0",
+        "created_at": "2026-03-30 17:24:13"
+    },
+    {
+        "user_id": "69cb450e0a97a",
+        "quiz_id": "69ca950708a9b",
+        "score": 1,
+        "raw_score": 1,
+        "total": 1,
+        "answers_selected": {
+            "69ca952486128": 0
+        },
+        "submitted_at": "2026-03-31 03:53:22",
+        "id": "69cb4532e05ac",
+        "created_at": "2026-03-31 03:53:22"
+    },
+    {
+        "user_id": "69cb450e0a97a",
+        "quiz_id": "69cb4698d8afb",
+        "score": 1,
+        "raw_score": 1,
+        "total": 1,
+        "answers_selected": {
+            "69cb471006fa1": "HTML"
+        },
+        "submitted_at": "2026-03-31 04:02:23",
+        "id": "69cb474fb866a",
+        "created_at": "2026-03-31 04:02:23"
+    }
+]
