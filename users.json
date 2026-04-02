@@ -1,0 +1,39 @@
+[
+    {
+        "username": "admin",
+        "password": "$2y$10$v3zygufmU2JL04eytNKF7.5TzjCw4b7MigtrPcEeNkwb8WE4b6y2S",
+        "role": "admin",
+        "id": "69ca8f5ba5194",
+        "created_at": "2026-03-30 16:57:31"
+    },
+    {
+        "username": "24BCS0079",
+        "password": "$2y$12$lMsf4WxlxysfCjyOSXjIwOmtHkO6jUejuSBSQ10zCbRXIGlvmsK0G",
+        "role": "student",
+        "id": "69cb450e0a97a",
+        "created_at": "2026-03-31 03:52:46"
+    },
+    {
+        "username": "naresh",
+        "password": "$2y$12$uRLbFNuDgVTPJy6OiDQ8Bey.1Ble09vjLm2yJ80ieRGb04WHL9dU6",
+        "role": "teacher",
+        "status": "approved",
+        "id": "69cb4616afeb5",
+        "created_at": "2026-03-31 03:57:10"
+    },
+    {
+        "username": "ne",
+        "password": "$2y$12$R6SkILov.x0RWlCndR9w4eo6Xob\/FDEGKnAHzJlpVubERIDvsPGTK",
+        "role": "student",
+        "id": "69cb932e3b0d0",
+        "created_at": "2026-03-31 09:26:06"
+    },
+    {
+        "username": "flower",
+        "password": "$2y$12$nb\/H3OojDNP9yEqMZOIJOejkiZgsCmdS6FjZ3ZzhH4zo6Ch2TN9gm",
+        "role": "teacher",
+        "status": "approved",
+        "id": "69ce3be17df18",
+        "created_at": "2026-04-02 09:50:25"
+    }
+]
